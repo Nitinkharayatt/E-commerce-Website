@@ -26,5 +26,5 @@ If you have any questions, feedback, or would like to get in touch with me, plea
 - Email: nitinsinghkharayat2002@gmail.com
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/nitin-singh-b63926236)
 
-Thank you for visiting this repository and for your interest in my tasks!
+Thank you for visiting this repository and for your interest in my Project!
 
